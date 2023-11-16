@@ -1,2 +1,2 @@
-# PRODIGY_ML_04
-Prodigy Infotech - Machine Learning Internship
+# Prodigy Infotech - Machine Learning Internship
+TASK - Hand Gesture Recognition
